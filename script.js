@@ -27,7 +27,7 @@ dateE1.innerHTML=days[day] + ', ' + date+ ' ' +months[month]
 },1000
 
 
-);
+); 
 
 getweatherdata();
 function getweatherdata () {
